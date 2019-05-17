@@ -1,0 +1,16 @@
+{
+  "name": "@upvest/keygen",
+  "version": "0.0.1",
+  "description": "Generate private-public key pairs for Upvest Recovery Kits.",
+  "main": "index.js",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toknapp/keygen.git"
+  },
+  "author": "Raphael Huefner",
+  "license": "MIT",
+  "dependencies": {
+    "libsodium-wrappers": "^0.7.4"
+  }
+}
